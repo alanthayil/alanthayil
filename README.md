@@ -84,46 +84,6 @@ I'm a robotics engineer at **NEURA Robotics**, currently working in the Producti
 
 ---
 
-## 📊 GitHub Stats
-
-> **Note:** Stats cards use GitHub's API. If they appear blank, try refreshing — this is a known rate-limiting issue with shared deployments.
-
-<div align="center">
-
-<a href="https://github.com/alanthayil">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanthayil&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanthayil&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" />
-</a>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=alanthayil&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Alan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alanthayil&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏆 Top Contributed Repos
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=alanthayil&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
-
-</div>
-
----
 
 ### ✍️ Dev Quote of the Day
 
